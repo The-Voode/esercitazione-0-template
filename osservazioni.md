@@ -2,26 +2,27 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (Giacomo Marino, The-Voode; Christian Goxhaj, ):
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/The-Voode/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: 
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: printf("\n");
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello
+Viene stampato Hello, computational physics sul terminale.
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: la sorgente è il file su cui scrivo il codice, mentre l'eseguibile è il file che ho dopo aver compilato e che viene eseguito.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: l'output era una stampa da eseguire su terminale; prima della modifica non poteva stampare nulla.
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: è stato aggiunto il comando printf che ha permesso la stampa del testo richiesto.
 
 ## Step 1 — Git
 
